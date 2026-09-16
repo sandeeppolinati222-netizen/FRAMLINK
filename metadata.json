@@ -1,0 +1,6 @@
+{
+  "name": "Smart Farm Network",
+  "description": "Direct Farm-to-Consumer & Bulk Buyer Agricultural Network with Local Farm Hubs, AI Quality Grading & Transparent Logistics",
+  "requestFramePermissions": ["microphone"],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
